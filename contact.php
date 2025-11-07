@@ -14,7 +14,7 @@ include_once('layouts/header.php');
 <div class="row">
 <div class="col-lg-12 col-md-12">
 <div class="section-title" style="margin-top: 50px;">
-<h2 style="color: #fff;">MetaSoft10 Next - Contact us</h2>
+<h2 style="color: #fff;">MetaSoft10 Next - Contact US</h2>
 <p style="color: #fff; font-size: 19px;">Join our growing community of 100+ clients in Global markets</p>
 <p style="color: #fff; font-size: 19px;">Get started with us</p>
 </div>
